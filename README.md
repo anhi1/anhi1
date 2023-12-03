@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anniemolina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/anniemolinaalarcon/)
 [![Gmail Badge](https://img.shields.io/badge/-anhiemolina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhiemolina@gmail.com)](mailto:anhiemolina@gmail.com)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
