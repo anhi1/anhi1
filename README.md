@@ -1,4 +1,4 @@
- <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola, soy Annie</h3>
+## hola soy annie
 
 Soy diseñadora gráfica cuento con una carrera profesional de arte y diseño. Terminé mi formación como desarrolladora Front-end, recientemente estoy
 formándome en el desarrollo Web Full Stack, resalto de mi la constante dedicación que muestro en mis proyectos....
