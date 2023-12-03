@@ -1,4 +1,4 @@
- *** Hola, soy Annie ***
+ **Hola, soy Annie**
 
 Soy diseñadora gráfica cuento con una carrera profesional de arte y diseño. Terminé mi formación como desarrolladora Front-end, recientemente estoy for-
 mándome en el desarrollo Web Full Stack, resalto de mi la constante dedicación que muestro en mis proyectos....
