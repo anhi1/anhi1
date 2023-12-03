@@ -4,11 +4,9 @@ Soy diseñadora gráfica cuento con una carrera profesional de arte y diseño. T
 formándome en el desarrollo Web Full Stack, resalto de mi la constante dedicación que muestro en mis proyectos....
 
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
 ```javascript
 const annie = {
-    askMeAbout: ["web dev", "design", "editorial"],
+    askMeAbout: ["diseño web", "diseño gráfico", "diseño editorial"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular"],
