@@ -23,6 +23,6 @@ const annie = {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-** Connect with Me
+## Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/-anhiemolina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhiemolina@gmail.com)](mailto:anhiemolina@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-anniemolina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/anniemolinaalarcon/)
