@@ -2,6 +2,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-anhiemolina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhiemolina@gmail.com)](mailto:anhiemolina@gmail.com)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
