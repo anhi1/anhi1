@@ -9,7 +9,7 @@ const annie = {
     askMeAbout: ["diseño web", "diseño gráfico", "diseño editorial"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
+            js: ["Angular"],
             css: ["bootstrap", "angular material"]
         },
         backEnd: ["node", "nest"],
