@@ -9,11 +9,11 @@ const annie = {
     askMeAbout: ["diseño web", "diseño gráfico", "diseño editorial"],
     technologies: {
         frontEnd: {
-            js: ["Angular"],
-            css: ["bootstrap", "angular material"]
+            js: ["Angular, React"],
+            css: ["bootstrap","tailwind", "angular material"]
         },
         backEnd: ["node", "nest"],
-        databases: ["MySql"],
+        databases: ["MySql", "MongoDB"],
     }
 };
 ```
