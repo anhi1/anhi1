@@ -9,7 +9,7 @@ const annie = {
     technologies: {
         frontEnd: {
             frameworks: ["Angular", "React"],
-            libraries: ["three.js", "A-Frame"],  // A-Frame added here
+            libraries: ["three.js", "A-Frame"],
             cssFrameworks: ["Bootstrap", "Tailwind", "Angular Material"]
         },
         backEnd: {
