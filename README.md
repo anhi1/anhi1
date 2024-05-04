@@ -5,18 +5,24 @@ una chica apasionada por el arte visual. He completado mis estudios en arte y di
 
 ```javascript
 const annie = {
-    askMeAbout: ["diseño gráfico"],
+    askMeAbout: [
+        "Desarrollo de Software Creativo",
+        "Diseño e Implementación de UI/UX en Aplicaciones",
+        "Innovación Digital y Tecnología"
+    ],
     technologies: {
         frontEnd: {
             frameworks: ["Angular", "React"],
             libraries: ["three.js", "A-Frame"],
-            cssFrameworks: ["Bootstrap", "Tailwind", "Angular Material"]
+            cssFrameworks: ["Bootstrap", "Tailwind", "Angular Material"],
+            contentManagement: ["WordPress (usando Elementor y tema Astra)"]
         },
         backEnd: {
             environments: ["Node", "Nest"]
         },
         databases: ["MySQL", "MongoDB"]
     }
+};
 };
 ```
 
