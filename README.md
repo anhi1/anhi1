@@ -1,7 +1,6 @@
 ## hola soy annie
 
-Soy diseñadora gráfica cuento con una carrera profesional de arte y diseño. Terminé mi formación como desarrolladora Front-end, recientemente estoy
-formándome en el desarrollo Web Full Stack, resalto de mi la constante dedicación que muestro en mis proyectos....
+"Hola, soy Annie, una chica apasionada por el arte visual. He completado mis estudios en arte y diseño y hace un tiempo descubrí mi pasión por la tecnología. Gracias a las enseñanzas recibidas y al curso de desarrollo web full stack que estoy cursando actualmente, he comenzado a descubrir las maravillosas posibilidades que surgen al fusionar el diseño con la tecnología para crear soluciones innovadoras. Estas soluciones no solo son funcionales, sino que también tienen el potencial de educar y enriquecer a la sociedad. Si buscas creatividad y eficacia para resolver desafíos mediante el diseño y la tecnología, ¡cuenta conmigo!"
 
 
 ```javascript
