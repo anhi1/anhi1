@@ -5,14 +5,17 @@ una chica apasionada por el arte visual. He completado mis estudios en arte y di
 
 ```javascript
 const annie = {
-    askMeAbout: ["diseño web", "diseño gráfico", "diseño editorial"],
+    askMeAbout: ["diseño gráfico"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "React", "three.js"],
-            css: ["bootstrap","tailwind", "angular material"]
+            frameworks: ["Angular", "React"],
+            libraries: ["three.js", "A-Frame"],  // A-Frame added here
+            cssFrameworks: ["Bootstrap", "Tailwind", "Angular Material"]
         },
-        backEnd: ["node", "nest"],
-        databases: ["MySql", "MongoDB"],
+        backEnd: {
+            environments: ["Node", "Nest"]
+        },
+        databases: ["MySQL", "MongoDB"]
     }
 };
 ```
