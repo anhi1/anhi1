@@ -24,6 +24,8 @@ const annie = {
 };
 ```
 
+Mi enfoque está en dominar una variedad de tecnologías esenciales para el desarrollo web moderno y la creación de software. Aunque todavía estoy perfeccionando mis habilidades en estas áreas, estoy comprometido(a) con el esfuerzo constante y la práctica regular para alcanzar grandes resultados.
+
 <div align="center">
 	<table>
 		<tr>
