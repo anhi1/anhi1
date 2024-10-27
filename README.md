@@ -1,6 +1,6 @@
-## "Hola, soy Annie,
+## Hola, soy Annie,
 
-una chica apasionada por el arte visual. He completado mis estudios en arte y diseño y, hace un tiempo, descubrí mi pasión por la tecnología. Gracias a las enseñanzas recibidas y al curso de desarrollo web Full Stack que he cursado, he comenzado a descubrir las maravillosas posibilidades que surgen al fusionar el diseño con la tecnología para crear soluciones innovadoras. Estas soluciones no solo son funcionales, sino que también tienen el potencial de educar y enriquecer a la sociedad. Si buscas creatividad y eficacia para resolver desafíos mediante el diseño y la tecnología, ¡cuenta conmigo!"
+Soy una apasionada del arte visual. He completado mis estudios en arte y diseño y descubrí mi fascinación por la tecnología. Si buscas creatividad y eficacia para resolver desafíos a través del diseño y la tecnología, ¡cuenta conmigo!
 
 
 ```javascript
