@@ -1,6 +1,6 @@
 ## Hola, soy Annie,
 
-Soy una apasionada del arte visual. He completado mis estudios en arte y diseño y descubrí mi fascinación por la tecnología. Si buscas creatividad y eficacia para resolver desafíos a través del diseño y la tecnología, ¡cuenta conmigo!
+Soy una apasionada del arte visual. Completé mis estudios en arte y diseño y descubrí mi fascinación por la tecnología. Si buscas creatividad y eficacia para resolver desafíos a través del diseño y la tecnología, ¡cuenta conmigo!
 
 
 ```javascript
