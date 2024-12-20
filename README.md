@@ -14,7 +14,7 @@ const annie = {
             frameworks: ["Angular", "React"],
             libraries: ["Three.js", "A-Frame"],
             cssFrameworks: ["Bootstrap", "Tailwind", "Angular Material"],
-            contentManagement: ["WordPress (usando Elementor y el tema Astra)"]
+            contentManagement: ["WordPress (Elementor, Astra)"]
         },
         backEnd: {
             environments: ["Node.js", "Nest"]
