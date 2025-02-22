@@ -12,7 +12,6 @@ const annie = {
     technologies: {
         frontEnd: {
             frameworks: ["Angular", "React"],
-            libraries: ["Three.js", "A-Frame"],
             cssFrameworks: ["Bootstrap", "Tailwind", "Angular Material"],
             contentManagement: ["WordPress (Elementor, Astra)"]
         },
