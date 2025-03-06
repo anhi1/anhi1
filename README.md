@@ -5,25 +5,31 @@ Soy una apasionada del arte visual. Completé mis estudios en arte y diseño y d
 
 ```javascript
 const annie = {
-    askMeAbout: [
-        "Desarrollo de Software Creativo",
-        "Diseño e Implementación de UI/UX en Aplicaciones"
+     askMeAbout: [
+        "Diseñadora Web",
+        "Diseñadora UX",
+	"Diseñadora Editorial",
     ],
     technologies: {
         frontEnd: {
             frameworks: ["Angular", "React"],
             cssFrameworks: ["Bootstrap", "Tailwind", "Angular Material"],
-            contentManagement: ["WordPress (Elementor, Astra)"]
+            contentManagement: ["WordPress (Elementor)"]
         },
         backEnd: {
             environments: ["Node.js", "Nest"]
         },
         databases: ["MySQL", "MongoDB"]
+    },
+    designTools: ["Figma", "Indesign", "Adobe Illustrator", "Photoshop"], // Herramientas de diseño gráfico
+    education: {
+        masters: "Máster en Diseño y Desarrollo de Interfaz de Usuario Web",
+        graphicDesignStudies: "Estudios en Diseño Gráfico"
     }
 };
 ```
 
-Mi enfoque está en dominar una variedad de tecnologías esenciales para el desarrollo web moderno y la creación de software. Aunque todavía estoy perfeccionando mis habilidades en estas áreas, estoy comprometida con el esfuerzo constante y la práctica regular para alcanzar grandes resultados.
+Mi objetivo es seguir perfeccionando mis habilidades en estas áreas. Estoy comprometida con el esfuerzo continuo y la práctica constante para lograr mejores resultados.
 
 <div align="center">
 	<table>
@@ -45,14 +51,11 @@ Mi enfoque está en dominar una variedad de tecnologías esenciales para el desa
 			<td><code><img width="47" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 			<td><code><img width="47" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
 			<td><code><img width="47" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></code></td>
-			<td><code><img width="47" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code></td>
 		</tr>
 		<tr>
 			<td><code><img width="47" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
 			<td><code><img width="47" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code></td>
-			<td><code><img width="47" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="47" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
-			<td><code><img width="47" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code></td>
+			
 		</tr>
 	</table>
 </div>
