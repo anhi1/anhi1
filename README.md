@@ -21,7 +21,7 @@ const annie = {
         },
         databases: ["MySQL", "MongoDB"]
     },
-    designTools: ["Figma", "Indesign", "Adobe Illustrator", "Photoshop"], // Herramientas de diseño gráfico
+    designTools: ["Figma", "Indesign", "Adobe Illustrator", "Photoshop"],
     education: {
         masters: "Máster en Diseño y Desarrollo de Interfaz de Usuario Web",
         graphicDesignStudies: "Estudios en Diseño Gráfico"
